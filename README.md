@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm [Your Name]</h1>
+<h1 align="left">Hi 👋, I'm Omkar Dhanawade</h1>
 <h3 align="left">Undergrad Student · Web & AI/ML Enthusiast · Security Curious</h3>
 
 ---
@@ -39,6 +39,6 @@ I'm a B.Tech student passionate about building things on the web and exploring t
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/omkar-dhanawade-2159062b3)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yourdhanawadeomkar9@email.com)
