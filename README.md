@@ -13,7 +13,6 @@ I'm a B.Tech student passionate about building things on the web and exploring t
 - 👯 I'm looking to collaborate on &nbsp;**Open source, web, AI/ML or any exciting project**
 - 🤝 I'm looking for help with &nbsp;**Cybersecurity concepts and ethical hacking**
 - 🌱 I'm currently learning &nbsp;**Next.js, Machine Learning & Cybersecurity**
-- 💬 Ask me about &nbsp;**JavaScript, React, or anything web-related**
 - ⚡ Fun fact &nbsp;**I can spend hours debugging and still enjoy it**
 
 ---
